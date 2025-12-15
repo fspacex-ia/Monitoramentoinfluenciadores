@@ -1,0 +1,5 @@
+{
+  "name": "Mapa Instagram Fortaleza",
+  "description": "A dashboard analyzing Instagram pages across neighborhoods in Fortaleza, featuring an interactive map, filtering, and statistics.",
+  "requestFramePermissions": []
+}
